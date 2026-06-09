@@ -17,4 +17,4 @@ pricing trends by bedroom count, location, and time of year.
 Tableau Public
 
 ## Connect
-[LinkedIn](www.linkedin.com/in/mishaal-abdussalam)
+[LinkedIn](https://www.linkedin.com/in/mishaal-abdussalam/)
