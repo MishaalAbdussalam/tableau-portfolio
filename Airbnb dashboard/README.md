@@ -3,7 +3,7 @@
 This folder contains Airbnb-related analytics and visualizations for the Tableau portfolio.
 
 ## Live Dashboard
-View here: (https://public.tableau.com/shared/FWPYY377W?:display_count=n&:origin=viz_share_link)
+[View on Tableau Public](https://public.tableau.com/shared/FWPYY377W?:display_count=n&:origin=viz_share_link)
 
 ## Overview
 This dashboard analyzes Airbnb listing data across Seattle, Washington for 2016. It explores how pricing varies by bedroom count and geographic location, tracks how average prices evolved throughout the year, and provides a breakdown of listing volume by bedroom type. The goal is to give a clear picture of the Seattle Airbnb market, helping hosts, investors, or analysts understand where prices are highest, which listing types are most common, and how demand shifted across the year.
